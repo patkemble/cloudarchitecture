@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      fail-fast: true
+      server:
+        git:
+          uri: https://github.com/patkemble/cloud-app-config
+  application:
+    name: config-service
