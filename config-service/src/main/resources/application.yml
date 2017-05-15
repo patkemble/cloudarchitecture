@@ -7,3 +7,5 @@ spring:
           uri: https://github.com/patkemble/cloud-app-config
   application:
     name: config-service
+server:
+  port: 8082
