@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="301e9593-0eec-49bd-87d2-e998bae2aae3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/authorization-service/pom.xml" afterPath="$PROJECT_DIR$/authorization-service/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/authorization-service/src/main/java/com/pk/cloud/AuthorizationServiceApplication.java" afterPath="$PROJECT_DIR$/authorization-service/src/main/java/com/pk/cloud/AuthorizationServiceApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/authorization-service/src/test/java/com/pk/cloud/AuthorizationServiceApplicationTests.java" afterPath="$PROJECT_DIR$/authorization-service/src/test/java/com/pk/cloud/AuthorizationServiceApplicationTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config-service/pom.xml" afterPath="$PROJECT_DIR$/config-service/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config-service/src/main/java/com/pk/cloud/ConfigServiceApplication.java" afterPath="$PROJECT_DIR$/config-service/src/main/java/com/pk/cloud/ConfigServiceApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config-service/src/test/java/com/pk/cloud/ConfigServiceApplicationTests.java" afterPath="$PROJECT_DIR$/config-service/src/test/java/com/pk/cloud/ConfigServiceApplicationTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/discovery-service/pom.xml" afterPath="$PROJECT_DIR$/discovery-service/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/discovery-service/src/main/java/com/pk/cloud/DiscoveryServiceApplication.java" afterPath="$PROJECT_DIR$/discovery-service/src/main/java/com/pk/cloud/DiscoveryServiceApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/discovery-service/src/test/java/com/pk/cloud/DiscoveryServiceApplicationTests.java" afterPath="$PROJECT_DIR$/discovery-service/src/test/java/com/pk/cloud/DiscoveryServiceApplicationTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proxy-service/pom.xml" afterPath="$PROJECT_DIR$/proxy-service/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proxy-service/src/main/java/com/pk/cloud/ProxyServiceApplication.java" afterPath="$PROJECT_DIR$/proxy-service/src/main/java/com/pk/cloud/ProxyServiceApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proxy-service/src/test/java/com/pk/cloud/ProxyServiceApplicationTests.java" afterPath="$PROJECT_DIR$/proxy-service/src/test/java/com/pk/cloud/ProxyServiceApplicationTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/pom.xml" afterPath="$PROJECT_DIR$/web/pom.xml" />
-    </list>
+    <list default="true" id="301e9593-0eec-49bd-87d2-e998bae2aae3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/discovery-service/target/" />
@@ -274,7 +259,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="512" />
+    <option name="y" value="90" />
     <option name="width" value="1563" />
     <option name="height" value="979" />
   </component>
@@ -1180,7 +1166,7 @@
       <updated>1493828607421</updated>
       <workItem from="1493828608755" duration="8046000" />
       <workItem from="1494269221220" duration="5455000" />
-      <workItem from="1500591290254" duration="546000" />
+      <workItem from="1500591290254" duration="924000" />
     </task>
     <servers />
   </component>
@@ -1190,11 +1176,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14047000" />
+    <option name="totallyTimeSpent" value="14425000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1563" height="979" extended-state="0" />
-    <editor active="true" />
+    <frame x="512" y="90" width="1563" height="979" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1213,7 +1198,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23537147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
